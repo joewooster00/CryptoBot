@@ -186,5 +186,5 @@ async def on_message(message):
 
 keep_alive()
 
-BOT_TOKEN = 'OTAwMzkzNTU3MTA4NjE3MjU2.YXAq2A.vsni3IUFwAsW4esmQxuMyGyj3VM'
+BOT_TOKEN = 'insert bot token'
 client.run(BOT_TOKEN)
